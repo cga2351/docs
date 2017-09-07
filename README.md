@@ -9,8 +9,8 @@ AAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAA  
 AAAAAAAAAAAAAAAAAAAAA  
 
-[BA](README.md####BA-level)  
-[C](README.md##C-level)  
+[BA](README.md#BA-level)  
+[C](README.md#C-level)  
 [docend](README.md#docsend-level)  
 [transaction](README.md#transaction-level)  
 
