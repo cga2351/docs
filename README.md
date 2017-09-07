@@ -9,7 +9,7 @@ AAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAA  
 AAAAAAAAAAAAAAAAAAAAA  
 
-[B](README.md#b-level)  
+[B](README.md#B-level)  
 [BA](README.md#ba-level)  
 [C](README.md#c-level)  
 [docend](README.md#docsend-level)  
