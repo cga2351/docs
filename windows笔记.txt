@@ -9,3 +9,7 @@ powercfg /requests
 
 更多命令，参考 https://zhuanlan.zhihu.com/p/93306740 
 ///////////////////////////////////////////////////////////////////////////
+bat文件中，启动cmd，并在cmd中再启动其他bat:
+
+start cmd /k xxx.bat		// 	/k: keep，bat命令结束后cmd不关闭
+start cmd /c xxx.bat		// 	/c: close，bat命令结束后cmd关闭
