@@ -13,3 +13,7 @@ bat文件中，启动cmd，并在cmd中再启动其他bat:
 
 start cmd /k xxx.bat		// 	/k: keep，bat命令结束后cmd不关闭
 start cmd /c xxx.bat		// 	/c: close，bat命令结束后cmd关闭
+
+///////////////////////////////////////////////////////////////////////////
+Win11系统安装或执行程序时提示：文件系统错误（-1073740771）怎么办？参考下列网址的方法二
+https://zhuanlan.zhihu.com/p/
